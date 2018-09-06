@@ -11,19 +11,19 @@ https://www.safaribooksonline.com/videos/node-js-express-and/9781789535952/
 
 
 
-Handlebars - view engine
+##### Handlebars - view engine
 
 https://github.com/ericf/express-handlebars
 
-Bootstrap - Html
+##### Bootstrap - Html
 
 https://getbootstrap.com/docs/4.1/
 
-MongoDB
+##### MongoDB
 
 https://mongoosejs.com/docs/guide.html
 
-Nodejs - Express
+##### Nodejs - Express
 
 https://github.com/expressjs/body-parser
 
@@ -31,8 +31,24 @@ https://github.com/expressjs/method-override
 
 https://github.com/expressjs/session
 
-Authentication
+##### Authentication
 
 http://www.passportjs.org/docs/downloads/html/
 
 https://www.npmjs.com/package/bcrypt
+
+
+
+## Environment
+
+##### Deploy
+
+http://heroku.com
+
+##### Database
+
+https://mlab.com
+
+##### Domain
+
+https://www.namecheap.com
